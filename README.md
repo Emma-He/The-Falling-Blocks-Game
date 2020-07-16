@@ -1,4 +1,4 @@
-# The Speeding Blocks Game\
+# The Speeding Blocks Game
 
 In this game, your reflex skills will be worked to the MAX! Use the left and right directional arrows on your keyboard (alternatively, you can also use keys"a" and "d" insteand of left and right arrows) to control the movement of the red player block.\
 
