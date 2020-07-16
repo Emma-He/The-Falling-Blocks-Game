@@ -9,4 +9,5 @@ You can play the game at: http://simmer.io/@Emma_He/the-speeding-blocks2
 Have fun and enjoy the game!
 
 PS* The speed at which the blocks fall will increase over time, so be aware and stay alerted!
+
 PPS* The game cannot be opened through Safari so open the link through Chrome. Also this game is not designed as a mobile game, so please open it using a desktop or laptop. 
